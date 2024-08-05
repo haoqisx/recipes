@@ -1,3 +1,3 @@
 # recipes
 
-barebones recipes website
+barebones odin recipes website
