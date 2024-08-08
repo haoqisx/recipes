@@ -7,3 +7,11 @@
 a {
     color: rgb(148, 236, 148);
 }
+
+a:hover {
+    color: rgb(181, 255, 181);
+}
+
+a:active {
+    color: rgb(148, 236, 148);
+}
