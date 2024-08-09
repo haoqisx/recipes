@@ -4,13 +4,31 @@
 }
 
 a {
-    color: rgb(148, 236, 148);
+    color: rgb(0, 0, 0);
 }
 
 a:hover {
-    color: rgb(181, 255, 181);
+    color: rgb(64, 95, 64);
 }
 
 a:active {
-    color: rgb(148, 236, 148);
+    color: rgb(45, 66, 45);
+}
+
+.homepage, .text {
+    margin-left: 2.5%;
+}
+
+.text {
+    margin-right: 2.5%;
+}
+
+.name, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
